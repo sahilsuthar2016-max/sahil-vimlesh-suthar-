@@ -1,0 +1,6 @@
+{
+  "name": "NeuroTrain",
+  "description": "A premium cognitive fitness suite to train Speed Reading, Memory, Peripheral Vision, and Reading Comprehension.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
